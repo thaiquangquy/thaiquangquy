@@ -2,20 +2,18 @@
 
 ### (he/him)
 
-I work at [Personify Inc Vietnam](https://www.personifyinc.com/) as Full-Stack Software Engineer and Sub Leader, focusing on IoT data visualization, microservices architecture, and AWS cloud services.
+I work at [Personify Inc Vietnam](https://www.personifyinc.com/) as Full-Stack Software Engineer and Leader, focusing on Web development, microservices architecture, cloud computing and agentic application.
 
 Previously, I was at [Robert Bosch Engineering Vietnam](https://www.bosch.com/) as Team Lead, and before that was [i3 International Inc](https://www.i3international.com/) as Software Engineer.
 
-I'm passionated about full stack development, cloud infrastructure, data science, and building scalable products that create impact.
+I'm passionated about full stack development, cloud infrastructure, agentic application, and building scalable products that create impact.
 
 My latest interests are currently in
 
-- Building responsive web applications with React, TypeScript, and modern frontend technologies
 - Developing microservices and backend systems with Java Spring Boot and Node.js
 - Cloud computing and DevOps practices (AWS, GCP, Azure, Docker, Kubernetes)
-- Deep learning and AI applications using TensorFlow and PyTorch
-- IoT data visualization and electric vehicle cloud platforms
-- etc...
+- Agentic application & workflow
+- Building responsive web applications with React, TypeScript, and modern frontend technologies
 
 ## Projects
 
@@ -30,13 +28,13 @@ My projects leverage a wide range of cutting-edge technologies. I specialize in 
 
 ## Experience
 
-- **Full-Stack Software Engineer, Sub Leader** at Personify Inc Vietnam (June 2020 - Present)
+- **Full-Stack Software Engineer, Leader** at Personify Inc Vietnam (June 2020 - Present)
 - **Team Lead** at Robert Bosch Engineering Vietnam (March 2017 - May 2020)
 - **Software Engineer** at i3 International Inc (February 2016 - March 2017)
 
 ## Education
 
-- **Ho Chi Minh University of Technology** - B.Tech. in Computer Engineering (2011 - 2016)
+- **[Ho Chi Minh University of Technology](https://hcmut.edu.vn/en/)** - B.Tech. in Computer Engineering (2011 - 2016)
 
 ## Connect with Me
 
