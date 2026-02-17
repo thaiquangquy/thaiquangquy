@@ -19,12 +19,12 @@ My latest interests are currently in
 
 My projects leverage a wide range of cutting-edge technologies. I specialize in developing high-performance, intelligent, and user-friendly applications across multiple platforms.
 
-- [masterPortfolio](https://github.com/thaiquangquy/masterPortfolio): A clean and modern portfolio website showcasing my professional experience, skills, and projects using React.
 - IoT Data Visualization Platform: Developed comprehensive dashboards for real-time IoT device monitoring and analytics using React and TypeScript.
 - Electric Vehicle Cloud Platform: Built backend microservices for EV fleet management using Java Spring Boot, PostgreSQL, and AWS services.
 - Human-Machine Interface Systems: Led development of HMI components for automotive speech dialog systems using C/C++.
 - User Management System: Implemented authentication and authorization services with Spring Security and JWT.
 - Video Pilot Client v5: Contributed to UI application development using C/C++, Boost framework, and Microsoft Direct2D.
+- [masterPortfolio](https://github.com/thaiquangquy/masterPortfolio): A clean and modern portfolio website showcasing my professional experience, skills, and projects using React.
 
 ## Experience
 
